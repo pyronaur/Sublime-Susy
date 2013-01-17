@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+@include at-breakpoint(${1:\$media_layout}) {
+  @include set_container_width(${2\$total_columns});
+}
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>scont-reset</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

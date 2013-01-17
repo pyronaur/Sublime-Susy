@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+space(${1:3}, ${2:\$total_columns})
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>space</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[
+@include span-columns(${1:\$columns} ${2:omega}, ${3:\$total_columns});
+]]></content>
+    <tabTrigger>scolo</tabTrigger> 
+</snippet>

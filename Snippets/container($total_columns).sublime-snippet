@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+@include container(${1:\$total_columns});
+]]></content>
+    <tabTrigger>scon</tabTrigger> 
+</snippet>
+
+
