@@ -9,7 +9,7 @@ You should be able to tab over everything, just as you'd expect from ST2 Snippet
 
 * `span-columns()` has a bit more snippets:  
 
-  * `scol` translates to a simple:  
+  * `scol` expands to a simple:  
   ```@include span-columns($columns, $total_columns);```  
   
   * `scolo` adds omega to the mix:
