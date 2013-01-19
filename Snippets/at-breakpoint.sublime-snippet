@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-@include at-breakpoint(${1:\$media-layout})) {
+@include at-breakpoint(${1:\$media-layout}) {
   $2
 }
 ]]></content>
