@@ -1,5 +1,5 @@
 # Sublime Susy 0.1
-## Susy Snippets for Sublime Text 2
+## Susy Snippets for Sublime Text
 
 Currently contains all the basic Susy snippets for Functions and Mixins, and hopefully we can fill in more (like auto-completions) later.
 
